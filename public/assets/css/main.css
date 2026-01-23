@@ -2314,10 +2314,6 @@ progress {
   align-items: center !important;
 }
 
-.align-self-start {
-  align-self: flex-start !important;
-}
-
 .align-self-center {
   align-self: center !important;
 }
@@ -4169,7 +4165,6 @@ body {
   font-family: var(--font-primary);
   background-color: #121212;
   overflow-x: hidden;
-  overscroll-behavior: none;
   /* 1. Ultra Geniş Ekranlar (1400px ve üzeri - XXL) */
   /* 2. Masaüstü / Büyük Ekranlar (1200px - 1400px - XL) */
   /* 3. Laptop / Küçük Masaüstü (1024px - 1200px) */

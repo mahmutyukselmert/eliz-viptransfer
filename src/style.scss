@@ -35,7 +35,6 @@ body {
   font-family: var(--font-primary);
   background-color: #121212;
   overflow-x: hidden;
-  overscroll-behavior: none;
 
   /* 1. Ultra Geniş Ekranlar (1400px ve üzeri - XXL) */
   @media (min-width: 1400px) {
