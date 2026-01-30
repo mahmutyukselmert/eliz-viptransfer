@@ -632,13 +632,11 @@ form {
             padding-left: 3.2px;
             font-size: 14px;
 
-            // Placeholder'ı gizle - sadece label kullan
             &::placeholder {
                 opacity: 0;
                 color: transparent !important;
             }
-
-            // Focus durumunda da placeholder gizli kalsın
+            
             &:focus::placeholder {
                 opacity: 0;
                 color: transparent !important;
